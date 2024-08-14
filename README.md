@@ -14,7 +14,7 @@ Source code for [Programming Humanoid Robot in Python](http://www.dainamite.de/#
 * create a github account if you don't have
 * open [repository page](https://github.com/DAInamite/programming-humanoid-robot-in-python)
 * click "Fork" button in top right corner
-* clone your fork to your computer:
+* clone your fork to your computer:.
   ```sh
   git clone git@github.com:YOUR_GITHUB_ACCOUNT/programming-humanoid-robot-in-python.git
   ```
